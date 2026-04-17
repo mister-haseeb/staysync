@@ -1,14 +1,3 @@
-Got it — you want a **single clean README (final version)** + also fix your **force update situation on GitHub**.
-
-I’ll handle both properly.
-
----
-
-# ✅ 1. FINAL CLEAN README.md (USE THIS ONLY)
-
-Replace everything in your README with this:
-
-```markdown
 # 🚀 StaySync – Event / Meetup Planner
 
 StaySync is a full-stack MERN application where users can create events, manage them, and RSVP to events created by others.
